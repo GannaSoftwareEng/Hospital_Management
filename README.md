@@ -1,4 +1,5 @@
 # Hospital Management System (SQL)
+# [HospitalERD] (Hospital_Management_System)
 
 ## Project Overview
 This project is a comprehensive database schema for a **Hospital Management System** designed using Oracle SQL. It manages departments, doctors, patients, appointments, admissions, lab tests, and billing.
